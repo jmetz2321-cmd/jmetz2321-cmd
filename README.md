@@ -21,4 +21,4 @@ I build AI agents and documentation to simplify and automate product manager wor
 - 📧 [Email](jmetz2321@gmail.com)
 
 ---
-*Principal PM who builds things. Currently exploring agents and ecosystems to speed up the PDLC.*
+*PM who builds things. Currently exploring agents and ecosystems to speed up the PDLC.*
