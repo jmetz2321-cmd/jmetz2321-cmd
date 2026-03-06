@@ -1,4 +1,4 @@
-# Hi, I'm [Jon] 👋
+# Hi, I'm Jon 👋
 
 ## What I Build
 I build AI agents and documentation to simplify and automate product manager workflows to help teams of all sizes deliver faster..
