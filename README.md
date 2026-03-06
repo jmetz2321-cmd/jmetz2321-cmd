@@ -12,7 +12,7 @@ I build AI agents and documentation to simplify and automate product manager wor
 
 | Project | What It Does | Stack |
 |---------|--------------|-------|
-| Coming soon | [One line] | Coming soon|
+| AI Email Agent | [Coming soon] | n8n, GPT|
 | Coming soon | [One line] | Coming soon |
 | Coming soon | [One line] | Coming soon |
 
