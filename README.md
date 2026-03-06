@@ -4,9 +4,9 @@
 I build AI agents and documentation to simplify and automate product manager workflows to help teams of all sizes deliver faster..
 
 ## What I'm Working On
-- 🔨 **[Current project]** — [one-line description]
-- 📚 [What you're learning — e.g. "Agentic workflows with Cursor"]
-- 🤝 [What you're looking for — e.g. "Collaborators, feedback, PM roles"]
+- 🔨 **[Current project]** — [coming soon]
+- 📚 [What you're learning — e.g. coming soon]
+- 🤝 [What you're looking for —coming soon]
 
 ## Featured Projects
 
@@ -18,8 +18,7 @@ I build AI agents and documentation to simplify and automate product manager wor
 
 ## Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonmetz1/)
-- 📝 [Portfolio / Blog](your-link)
 - 📧 [Email](jmetz2321@gmail.com)
 
 ---
-*PM who builds things. Currently exploring [your focus — e.g. AI agents, developer tools, growth].*
+*Principal PM who builds things. Currently exploring agents and ecosystems to speed up the PDLC.*
