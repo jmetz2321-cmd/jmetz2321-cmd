@@ -12,9 +12,9 @@ I build AI agents and documentation to simplify and automate product manager wor
 
 | Project | What It Does | Stack |
 |---------|--------------|-------|
-| [Project 1](link) | [One line] | Python, OpenAI |
-| [Project 2](link) | [One line] | Claude API, Notion |
-| [Project 3](link) | [One line] | Zapier, GPT-4 |
+| Coming soon | [One line] | Coming soon |
+| Coming soon | [One line] | Coming soon |
+| Coming soon | [One line] | Coming soon |
 
 ## Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonmetz1/)
