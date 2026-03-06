@@ -19,7 +19,7 @@ I build AI agents and documentation to simplify and automate product manager wor
 ## Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonmetz1/)
 - 📧 [Email](jmetz2321@gmail.com)
-- 📚 [AI PM Coach on Cursor & PM automation workflows] (https://www.joinleland.com/coach/jon-m)
+- 📚 [AI PM Coach on Cursor & PM automation workflows](https://www.joinleland.com/coach/jon-m))
 
 ---
 *PM who builds things. Currently exploring agents and ecosystems to speed up the PDLC.*
