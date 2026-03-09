@@ -12,7 +12,7 @@ I build AI agents and documentation to simplify and automate product manager wor
 
 | Project | What It Does | Stack |
 |---------|--------------|-------|
-| AI Email Agent | [Coming soon] | n8n, GPT|
+| AI Email Agent | [Coming soon] | Claude Code, Opus 4.6|
 | Coming soon | [One line] | Coming soon |
 | Coming soon | [One line] | Coming soon |
 
