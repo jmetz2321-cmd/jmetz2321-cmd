@@ -4,17 +4,15 @@
 I build AI agents and documentation to simplify and automate product manager workflows to help teams of all sizes deliver faster.
 
 ## What I'm Working On
-- 🔨 **[Current project]** — [coming soon]
-- 📚 [What you're learning — e.g. coming soon]
-- 🤝 [What you're looking for —coming soon]
+- 🔨 **Building PM Agents** — [Claude Code and in Cursor]
 
 ## Featured Projects
 
 | Project | What It Does | Stack |
 |---------|--------------|-------|
-| AI Email Agent | [Coming soon] | Claude Code, Sonnet 4.6|
-| Coming soon | [One line] | Coming soon |
-| Coming soon | [One line] | Coming soon |
+| AI Email Agent | [Analyzes my incoming gmails and draft replies to my coaching clients] | Claude Code, Sonnet 4.6|
+| Personal Website | Coming soon | Coming soon |
+| Coming soon | Coming soon | Coming soon |
 
 ## Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonmetz1/)
