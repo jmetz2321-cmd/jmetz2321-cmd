@@ -11,7 +11,7 @@ I build AI agents and documentation to simplify and automate product manager wor
 | Project | What It Does | Stack |
 |---------|--------------|-------|
 | AI Email Agent | Analyzes my incoming gmails and draft replies to my coaching clients | Claude Code, Sonnet 4.6|
-| Personal Website | Coming soon | Coming soon |
+| Personal Website | (https://jmetz2321-cmd.github.io/jonmetz-portfolio/)| Cursor, Opus 4.6 |
 | Coming soon | Coming soon | Coming soon |
 
 ## Connect
