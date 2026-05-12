@@ -10,6 +10,7 @@ I build AI agents and documentation to simplify and automate product manager wor
 
 | Project | What It Does | Stack |
 |---------|--------------|-------|
+| iOS Personal Trainer App | Analyzes my Apple Health data from Apple Watch and personalizes my training and nutrition plan to meet fitness goals | Claude Code, XCode, Supabase|
 | AI Email Agent | Analyzes my incoming gmails and draft replies to my coaching clients | Claude Code, Sonnet 4.6|
 | Personal Website | Product & AI Project Highlights, AI Coaching| Cursor, Opus 4.6, Figma MCP |
 
